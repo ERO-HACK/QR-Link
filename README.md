@@ -9,6 +9,8 @@ INSTALL
 ----> git clone https://github.com/ERO-HACK/QR-Link.git
 <br>
 ----> pip install time
+<br>
 ----> pip install qrcode
+<br>
 ----> python QR-Link.py
 --------------------------------------------------------
