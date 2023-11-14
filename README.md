@@ -6,8 +6,9 @@ This program gives you the ability to give it your desired link and convert that
 
 INSTALL
 --------------------------------------------------------
-*----> git clone https://github.com/ERO-HACK/QR-Link.git
-*----> pip install time
-*----> pip install qrcode
-*----> python QR-Link.py
+----> git clone https://github.com/ERO-HACK/QR-Link.git
+<br>
+----> pip install time
+----> pip install qrcode
+----> python QR-Link.py
 --------------------------------------------------------
