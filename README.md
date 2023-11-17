@@ -16,3 +16,5 @@ INSTALL
 <br>
 ----> python QR-Link.py
 --------------------------------------------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero-hack&theme=merko&show_icons=true)
